@@ -18,7 +18,7 @@ Connect with me:
 ## Python
 | Project Link  | Completion Date | Tools  | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| 🚲 [Data Enrichment]([#leticiatca/DataEnrichment/tree/main](https://github.com/leticiatca/DataEnrichment/tree/main))  | November 2023  | Python, Packages: Pandas, Geopy, Math (Radians)   | Content Cell  |
+| 🚲 [Data Enrichment](https://github.com/leticiatca/DataEnrichment/tree/main)  | November 2023  | Python, Packages: Pandas, Geopy, Math (Radians)   | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## R
