@@ -9,8 +9,8 @@ Here's a compilation of some of my recent projects and coursework in my Masters 
 </div>
 
 ## 📚 Table of Contents 
-- [Python](#how-to-create-your-profile)
-- [R](#how-to-customize-markdown-files)
+- [Python](#python)
+- [R](#r)
 - [Tableau](#how-to-create-new-repository)
 - [SQL](#how-to-create-new-repository)
 
