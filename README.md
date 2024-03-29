@@ -28,10 +28,10 @@ Connect with me:
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Tableau
-| First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Project Link | Completion Date | Project Description  | Tools | Dashboark Link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 🚀 [NASA Visualizations](https://github.com/leticiatca/DataEnrichment/tree/main) | February 2024  | Content Cell  | Content Cell  | Content Cell  |
+| 🗺️ [Retailer Visualizations](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Content Cell  | Content Cell  | Content Cell  |
 
 ## SQL
 | First Header  | Second Header | First Header  | Second Header |
