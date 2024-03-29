@@ -29,10 +29,10 @@ Connect with me:
 | 🏕️ [Outdoor Retailer Analysis](https://github.com/leticiatca/RetailerAnalysis) | November 2023  | dplyr, tidyverse, stringr, moments | Content Cell  |
 
 ## Tableau
-| Project Link | Completion Date | Project Description  | Tools | Dashboark Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Project Link | Completion Date | Project Description | Dashboark Link |
+| ------------- | ------------- | ------------- | ------------- | 
 | 🚀 [NASA Visualizations](https://github.com/leticiatca/DataEnrichment/tree/main) | February 2024  | Content Cell  | Content Cell   
-| 🗺️ [Superstore Dataset](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Used a dataset containing sales data of a superstore from 2020-2023to analyze profits comparing performance across regions within the US, across categories and sub-categories of products and idenitfying areas of improvement.| [Tableau Dashboard](https://public.tableau.com/views/SuperstoreDatasetA2-LeticiaTeixeira/StorySouth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  |
+| 🛋️ [Superstore Dataset](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Used a dataset containing sales data of a superstore from 2020-2023 to analyze profits comparing performance across regions within the US, across categories and sub-categories of products and idenitfying areas of improvement.| [Tableau Dashboard](https://public.tableau.com/views/SuperstoreDatasetA2-LeticiaTeixeira/StorySouth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  |
 
 ## SQL
 | Project Link  | Completion Date | Project Description |
