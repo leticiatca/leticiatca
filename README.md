@@ -20,6 +20,19 @@ Here are some ideas to get you started:
 - [How to Customize Markdown files?](#how-to-customize-markdown-files)
 - [How to Create New Repository?](#how-to-create-new-repository)
 
+###Python
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+###R
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+###Tableau
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
