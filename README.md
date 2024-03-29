@@ -27,15 +27,14 @@ Connect with me:
 | Project Link  | Completion Date | Libraries  | Second Header |
 | ------------- | ------------- | ------------- | ------------- |
 | 🏕️ [Outdoor Retailer Analysis](https://github.com/leticiatca/RetailerAnalysis) | November 2023  | dplyr, tidyverse, stringr, moments | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Tableau
 | Project Link | Completion Date | Project Description  | Tools | Dashboark Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 🚀 [NASA Visualizations](https://github.com/leticiatca/DataEnrichment/tree/main) | February 2024  | Content Cell  | Content Cell  | Content Cell  |
-| 🗺️ [Retailer Visualizations](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Content Cell  | Content Cell  | Content Cell  |
+| 🚀 [NASA Visualizations](https://github.com/leticiatca/DataEnrichment/tree/main) | February 2024  | Content Cell  | Content Cell   
+| 🗺️ [Superstore Dataset](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Used a dataset containing sales data of a superstore from 2020-2023to analyze profits comparing performance across regions within the US, across categories and sub-categories of products and idenitfying areas of improvement.| [Tableau Dashboard](https://public.tableau.com/views/SuperstoreDatasetA2-LeticiaTeixeira/StorySouth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  |
 
 ## SQL
 | Project Link  | Completion Date | Project Description |
 | ------------- | ------------- | ------------- |
-| 🚗 [Charging Stations](https://github.com/leticiatca/ChargingStationsDatabase)| December 2023  | Content Cell  |
+| 🚲 [Blue Bikes](https://github.com/leticiatca/ChargingStationsDatabase)| December 2023  | Similar to 'Closest Distance' project done in Python but completed using SQL. This uses two separate datasets to create a database with homes in Boston and the respective closest Blue Bike Station to it. SQL code also includes use of conditional statments to find elements within the database.  |
