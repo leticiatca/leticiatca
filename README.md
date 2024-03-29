@@ -1,7 +1,8 @@
 ## Leticia's Data Analytics Portfolio 👩🏻‍💻
 Here's a compilation of some of my recent projects and coursework in my Masters of Science in Business Analytics at Northeastern University!
 
-<div align="center">
+Connect with me:
+<div align="left">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/leticiatca/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,13 +12,13 @@ Here's a compilation of some of my recent projects and coursework in my Masters 
 ## 📚 Table of Contents 
 - [Python](#python)
 - [R](#r)
-- [Tableau](#how-to-create-new-repository)
-- [SQL](#how-to-create-new-repository)
+- [Tableau](#Tableau)
+- [SQL](#SQL)
 
 ## Python
 | Project Link  | Completion Date | Tools  | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| 🚲 [Data Enrichment](#how-to-create-your-profile)  | November 2023  | Python, Packages: Pandas, Geopy, Math (Radians)   | Content Cell  |
+| 🚲 [Data Enrichment](#DataEnrichment)  | November 2023  | Python, Packages: Pandas, Geopy, Math (Radians)   | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## R
