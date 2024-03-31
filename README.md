@@ -25,7 +25,7 @@ Connect with me:
 ## R
 | Project Link  | Completion Date | Libraries  | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| 🏕️ [Outdoor Retailer Analysis](https://github.com/leticiatca/RetailerAnalysis) | November 2023 | dplyr, tidyverse, stringr, moments | Analysis of how to improve profitability and customer satisfaction in an outdoor gear company looking at consumer and transaction data.  |
+| 🏕️ [Outdoor Retailer Analysis](https://github.com/leticiatca/RetailerAnalysis) | November 2023 | dplyr, tidyverse, stringr, moments, ggplot | Analysis of how to improve profitability and customer satisfaction in an outdoor gear company looking at consumer and transaction data.  |
 
 ## Tableau
 | Project Link | Completion Date | Project Description | Dashboark Link |
