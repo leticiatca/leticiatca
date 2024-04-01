@@ -30,7 +30,7 @@ Connect with me:
 ## Tableau
 | Project Link | Completion Date | Project Description | Dashboark Link |
 | ------------- | ------------- | ------------- | ------------- | 
-| 🚀 [NASA Visualizations](https://github.com/leticiatca/NASAvisualizations/tree/main) | February 2024  | This case looks at data from the failed NASA challenger launch and aims to propose solutions on how the data could have been better presented to avoid a disaster.  | [(Tableau Dashboard)](https://public.tableau.com/views/NASA_Dashboard_17119304651920/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+| 🚀 [NASA Visualizations](https://github.com/leticiatca/NASAvisualizations/tree/main) | February 2024  | This case looks at data from the failed NASA challenger launch and aims to propose solutions on how the data could have been better presented to avoid a disaster.  | [Tableau Dashboard](https://public.tableau.com/views/NASA_Dashboard_17119304651920/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 | 🛋️ [Superstore Dataset](https://github.com/leticiatca/RetailerVisualizations) | January 2024  | Used a dataset containing sales data of a superstore from 2020-2023 to analyze profits comparing performance across regions within the US, across categories and sub-categories of products and idenitfying areas of improvement.| [Tableau Dashboard](https://public.tableau.com/views/SuperstoreDatasetA2-LeticiaTeixeira/StorySouth?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  |
 
 ## SQL
