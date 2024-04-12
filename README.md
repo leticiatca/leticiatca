@@ -6,7 +6,7 @@ Here's a compilation of some of my recent projects and coursework in my Masters 
 Connect with me:
 <div align="left">
     <!-- Replace href with your links -->
-    <a href=(https://www.linkedin.com/in/leticiatca)>
+    <a href=[(https://www.linkedin.com/in/leticiatca/)]>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
