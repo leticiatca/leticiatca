@@ -4,11 +4,9 @@ Here's a compilation of some of my recent projects and coursework in my Masters 
 🛠️ Still working to include all the projects and outputs here. Last updated 3/29/2024.
 
 Connect with me:
-<div align="left">
-    <!-- Replace href with your links -->
-    <a href=[(https://www.linkedin.com/in/leticiatca/)]>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/leticiatca/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 ## 📚 Table of Contents 
