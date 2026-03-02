@@ -1,7 +1,7 @@
 ## Leticia's Data Analytics Portfolio 👩🏻‍💻
-Here's a compilation of some of my recent projects and coursework in my Masters of Science in Business Analytics at Northeastern University!
+Here's a compilation of some of my recent projects and coursework in my Masters of Science in Business Analytics at Northeastern University and some independent projects done in my free time!
 
-🛠️ Still working to include all the projects and outputs here. Last updated 3/29/2024.
+🛠️ Still working to include all the projects and outputs here. Last updated 3/01/2025.
 
 Connect with me:
 <div id="badges">
