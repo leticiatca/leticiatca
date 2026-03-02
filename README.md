@@ -13,7 +13,7 @@ Connect with me:
 - [Python](#python)
 - [R](#r)
 - [Tableau](#Tableau)
-- Power BI (#Power BI)
+- [Power BI](#PowerBI)
 - [SQL](#SQL)
 
 ## Python
