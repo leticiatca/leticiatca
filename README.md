@@ -3,6 +3,15 @@ Here's a compilation of some of my recent projects and coursework in my Masters 
 
 🛠️ Still working to include all the projects and outputs here. Last updated 3/01/2025.
 
+## About Me
+🇧🇷🇺🇸 Brazilian located in Boston, MA
+🎓 Double Degree BS in International Business Management with a concentration in Marketing from Fundação Getulio Vargas (FGV EAESP) and Northeastern University (graduated May 2023)
+🎓 MS in Business Analytics from Northeastern University (graduated Dec. 2024)
+❄️ SnowPro® Certification: Adavnced Data Analyst
+👩🏻‍💻 2+ years experience working as a Data Scientist
+
+
+
 Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/leticiatca/">
@@ -15,6 +24,7 @@ Connect with me:
 - [Tableau](#Tableau)
 - [Power BI](#Power_BI)
 - [SQL](#SQL)
+- [Excel](#Excel)
 
 ## Python
 | Project Link  | Completion Date | Libraries  | Project Description |
@@ -36,7 +46,11 @@ Connect with me:
 | Project Link | Completion Date | Project Description | Dashboark Link |
 | ------------- | ------------- | ------------- | ------------- | 
 
-## SQL
+## SQL & ❄️ Snowflake
 | Project Link  | Completion Date | Project Description |
 | ------------- | ------------- | ------------- |
 | 🚲 [Blue Bikes](https://github.com/leticiatca/ChargingStationsDatabase)| December 2023  | Similar to 'Closest Distance' project done in Python but completed using SQL. This uses two separate datasets to create a database with homes in Boston and the respective closest Blue Bike Station to it. SQL code also includes use of conditional statments to find elements within the database.  |
+
+## Excel
+| Project Link  | Completion Date | Project Description |
+| ------------- | ------------- | ------------- |
